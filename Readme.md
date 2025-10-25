@@ -1,0 +1,2 @@
+## ABOUT ME
+As a frontend engineering leader with 13+ years of experience, I’ve built and scaled digital platforms serving millions of users. At Adani AI Labs (Adani–IHC JV), I’ve delivered seven AI projects in five months, spanning Operations Research, Predictive Analytics, and Computer Vision, for Adani Energy Apex and Adani Airports. My earlier work includes developing and scaling AdaniOne to 48M users and architecting Scan-N-Pay for 30K+ daily transactions. I’m now eager to contribute my expertise in AI-driven frontend engineering to a UAE-based innovation-focused team.
